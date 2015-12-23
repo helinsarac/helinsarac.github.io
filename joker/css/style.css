@@ -54,7 +54,7 @@ font-size:14px;
 
 /* =============================== header ===================================== */
 .header{
-background: url(helinsarac.github.io/joker/img/helin.jpg) no-repeat center fixed;
+background: url(/img/helin.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
