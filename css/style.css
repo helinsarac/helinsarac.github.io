@@ -762,6 +762,11 @@ padding:8px 14px;
 .title-page h2{
 font-size:24px;
 }
+background-attachment: scroll;
+background-position: top;
+-webkit-background-size: auto;
+-moz-background-size: auto;
+background-size: auto;
 }
 
 
