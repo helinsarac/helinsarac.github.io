@@ -817,6 +817,6 @@ margin-top: 10px;
 /* iPads (portrait and landscape) ----------- */
 @media screen and (max-device-width : 1024px) {
     .header {
-        background-attachment: scroll;
+        background: url(/img/H2.jpg) scroll;
     }
 }
