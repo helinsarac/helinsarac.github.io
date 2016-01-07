@@ -816,11 +816,7 @@ margin-top: 10px;
 
 /* iPads (portrait and landscape) ----------- */
 @media screen and (max-device-width : 1024px) {
-    .background {
+    .header {
         background-attachment: scroll;
-        background-position: top;
-        -webkit-background-size: auto;
-        -moz-background-size: auto;
-        background-size: auto;
     }
 }
