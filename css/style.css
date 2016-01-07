@@ -814,9 +814,9 @@ margin-top: 10px;
 
 }
 
-/* iPads (portrait and landscape) ----------- */
+/* header image on mobile */
 @media screen and (max-device-width : 1024px) {
     .header {
-        background: url(/img/H2.jpg) scroll;
+        background: url(/img/H2mobile.jpg) scroll;
     }
 }
