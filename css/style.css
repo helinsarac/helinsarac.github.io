@@ -23,6 +23,7 @@ padding: 20px 0
 }
 p, a{
 font-family: 'Questrial', sans-serif;
+   
 }
 img{
 max-width:100%;
@@ -820,3 +821,33 @@ margin-top: 10px;
         background: url(/img/H2mobile.jpg) scroll no-repeat center;
     }
 }
+
+.modal-header, h5, .close {
+      background-color: #f24971;
+      color:white !important;
+      text-align: center;
+      font-size: 30px;
+  }
+  .modal-footer {
+      background-color: #f9f9f9;
+  }
+
+#myBtn, #myBtn2, #myBtn3, #myBtn4, #myBtn5, #myBtn6, #myBtn7, #myBtn8, #myBtn9 {
+    width: 350px;
+    height: 200px;
+    color: rgb(255, 255, 255);
+    font-family: 'Questrial', sans-serif;
+    font-size: 25px;
+    -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+    filter: grayscale(100%);
+    opacity:0.5;
+    background: none;
+}
+
+#myBtn:hover, #myBtn2:hover, #myBtn3:hover, #myBtn4:hover, #myBtn5:hover, #myBtn6:hover, #myBtn7:hover, #myBtn8:hover, #myBtn9:hover {
+    background: #f24971;
+    opacity: 1;
+    -webkit-filter: none; /* Chrome, Safari, Opera */
+    filter: none;
+}
+
